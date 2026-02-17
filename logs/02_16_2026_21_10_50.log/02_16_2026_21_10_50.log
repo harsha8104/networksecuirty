@@ -1,0 +1,3 @@
+[ 2026-02-16 21:10:55,060 ] 13 root - INFO - Data Ingestion Started
+[ 2026-02-16 21:11:00,820 ] 70 root - INFO - Performed train test split
+[ 2026-02-16 21:11:01,024 ] 90 root - INFO - Train and test files exported successfully

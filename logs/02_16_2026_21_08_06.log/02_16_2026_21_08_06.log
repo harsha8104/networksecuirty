@@ -1,0 +1,3 @@
+[ 2026-02-16 21:08:40,284 ] 13 root - INFO - Data Ingestion Started
+[ 2026-02-16 21:08:48,146 ] 70 root - INFO - Performed train test split
+[ 2026-02-16 21:08:48,269 ] 95 root - ERROR - Error occurred in split_data_as_train_test

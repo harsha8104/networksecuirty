@@ -1,0 +1,7 @@
+[ 2026-02-16 21:18:39,067 ] 13 root - INFO - Data Ingestion Started
+[ 2026-02-16 21:18:39,067 ] 107 root - INFO - Starting data ingestion process
+[ 2026-02-16 21:18:43,343 ] 40 root - INFO - Exported 11055 records from MongoDB
+[ 2026-02-16 21:18:43,432 ] 54 root - INFO - Feature store saved at: artifact\02_16_2026_21_18_37\data_ingestion\feature_store\network_data.csv
+[ 2026-02-16 21:18:43,437 ] 72 root - INFO - Performed train test split. Train size: 8844, Test size: 2211
+[ 2026-02-16 21:18:43,552 ] 94 root - INFO - Train and test files exported successfully
+[ 2026-02-16 21:18:43,552 ] 124 root - INFO - Data ingestion completed. Train path: artifact\02_16_2026_21_18_37\data_ingestion\ingested\train\network_data.csv, Test path: artifact\02_16_2026_21_18_37\data_ingestion\ingested\test\network_data.csv
